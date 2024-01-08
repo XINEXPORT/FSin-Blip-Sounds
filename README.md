@@ -1,0 +1,3 @@
+- Highlight the line you want to execute <br>
+- Cntl + Enter to execute <br>
+- Cntrl + . to stop 
